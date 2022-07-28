@@ -1,0 +1,224 @@
+{
+  "wines": [
+    {
+      "wine_name": "Marqués de Murrieta Reserva",
+      "wine_year": 2017,
+      "wine_do": "D.O.Ca. Rioja",
+      "wine_brand": "Marqués de Murrieta",
+      "wine_description": "Red wine. 87% Tempranillo, 6% Mazuelo, 5% Graciano, 2% Garnacha",
+      "wine_image": "https://cdn.vinissimus.com/img/unsafe/p500x/plain/local:///prfmtgrande/vi/mmurr17_anv800_1644593654.png",
+      "wine_price": "21,80",
+      "wine_url": "https://www.vinissimus.com/es/vino/marques-de-murrieta-reserva/",
+      "wine_primaryIngredient": "Meat"
+    },
+    {
+      "wine_name": "Dido",
+      "wine_year": 2020,
+      "wine_do": "D.O. Montsant",
+      "wine_brand": "Venus La Universal",
+      "wine_description": "Red wine. Cabernet Sauvignon, 70% Garnacha Tinta, Merlot, 20% Syrah",
+      "wine_image": "https://www.vinoseleccion.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/i/dido-la-universal_1.jpg",
+      "wine_price": "13,41",
+      "wine_url": "https://www.vinissimus.com/es/vino/dido-la-universal/",
+      "wine_primaryIngredient": ["Meat", "Others"]
+    },
+    {
+      "wine_name": "Chuzos de Punta",
+      "wine_year": 2020,
+      "wine_do": "D.O. Ribeira Sacra",
+      "wine_brand": "Auténticos Viñadores",
+      "wine_description": "Red wine. 95% Mencía, 5% Merenzao",
+      "wine_image": "https://www.vinoseleccion.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/h/chuzos-de-punta_3_1.jpg",
+      "wine_price": "17,60",
+      "wine_url": "https://www.vivino.com/ES/es/autenticos-vinadores-chuzos-de-punta/w/6666410",
+      "wine_primaryIngredient": ["Meat", "Others"]
+    },
+    {
+      "wine_name": "Pago de Carraovejas",
+      "wine_year": 2019,
+      "wine_do": "D.O. Ribera del Duero",
+      "wine_brand": "",
+      "wine_description": "Red wine. 4% Cabernet Sauvignon, 3% Merlot, 93% Tempranillo",
+      "wine_image": "https://www.vinoseleccion.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/a/pago-de-carraovejas.jpg",
+      "wine_price": "33,80",
+      "wine_url": "https://www.vinissimus.com/es/vino/pago-de-carraovejas/",
+      "wine_primaryIngredient": "Meat"
+    },
+    {
+      "wine_name": "Pujanza Valdepoleo",
+      "wine_year": 2016,
+      "wine_do": "D.O.Ca. Rioja",
+      "wine_brand": "Bodegas Pujanza",
+      "wine_description": "Red wine. 100% Tempranillo",
+      "wine_image": "https://www.vinoseleccion.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/u/pujanza_valdepoleo_sc.jpg",
+      "wine_price": "20,50",
+      "wine_url": "https://www.vinissimus.com/es/vino/pujanza-finca-valdepoleo/",
+      "wine_primaryIngredient": ["Meat", "Pasta and Rice", "Vegetarian", "Others"]
+    },
+    {
+      "wine_name": "Quintaluna",
+      "wine_year": 2019,
+      "wine_do": " V.T. Castilla y León",
+      "wine_brand": "Ossian Vides y Vinos",
+      "wine_description": "White wine. 100% Verdejo",
+      "wine_image": "https://www.vinoseleccion.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/q/u/quintaluna-ok.jpg",
+      "wine_price": "13,70",
+      "wine_url": "https://www.vinissimus.com/es/vino/quintaluna/",
+      "wine_primaryIngredient": ["Fish and Seafood", "Pasta and Rice"]
+    },
+    {
+      "wine_name": "Clos Adele",
+      "wine_year": 2020,
+      "wine_do": "D.O. Empordà",
+      "wine_brand": "Terra Remota",
+      "wine_description": "White wine. 100% Xarel·lo",
+      "wine_image": "https://www.vinoseleccion.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/e/terra-remota-clos-adele_1.jpg",
+      "wine_price": "51,05",
+      "wine_url": "https://www.drinksco.es/vino-emporda/terra-remota-clos-adele-2020",
+      "wine_primaryIngredient": ["Fish and Seafood", "Pasta and Rice", "Vegetarian"]
+    },
+    {
+      "wine_name": "Jean Leon 3055 Chardonnay",
+      "wine_year": 2021,
+      "wine_do": "D.O. Penedès",
+      "wine_brand": "Jean Leon",
+      "wine_description": "White wine. 100% Chardonnay",
+      "wine_image": "https://www.vinoseleccion.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/j/l/jl-chardonnay-hd_2_1.jpg",
+      "wine_price": "11,50",
+      "wine_url": "https://www.vinissimus.com/es/vino/jean-leon-chardonnay/",
+      "wine_primaryIngredient": ["Fish and Seafood", "Pasta and Rice"]
+    },
+    {
+      "wine_name": "Rebels de Batea",
+      "wine_year": 2021,
+      "wine_do": "D.O. Terra Alta",
+      "wine_brand": "7 Magnífics",
+      "wine_description": "White wine. 100% Garnacha blanca",
+      "wine_image": "https://www.vinoseleccion.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/r/e/rebels-de-batea-blanco_2_1_1.jpg",
+      "wine_price": "9,90",
+      "wine_url": "https://www.vinissimus.com/es/vino/rebels-de-batea-blanc/",
+      "wine_primaryIngredient": ["Fish and Seafood", "Vegetarian", "Other"]
+    },
+    {
+      "wine_name": "Bestué Monte Alicia",
+      "wine_year": 2021,
+      "wine_do": "D.O. Somontano",
+      "wine_brand": "Bestué",
+      "wine_description": "White wine. 100% Chardonnay",
+      "wine_image": "https://i0.wp.com/bodega-ottobestue.com/wp-content/uploads/2020/04/bestue-chardonnay-lias.png?fit=640%2C640&ssl=1",
+      "wine_price": "9,50",
+      "wine_url": "https://bodega-ottobestue.com/producto/bestue-monte-alicia/",
+      "wine_primaryIngredient":["Fish and Seafood", "Pasta and Rice", "Other"]
+    },
+    {
+      "wine_name": "Marqués de Murrieta Primer Rosé",
+      "wine_year": 2021,
+      "wine_do": "D.O.Ca. Rioja",
+      "wine_brand": "Marqués de Murrieta",
+      "wine_description": "Rosé Wine. 100% Mazuelo",
+      "wine_image": "https://www.vinoseleccion.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/r/primer-rose-marques-murrieta_1.jpg",
+      "wine_price": "32,90",
+      "wine_url": "https://www.vinissimus.com/es/vino/marques-de-murrieta-primer-rose/",
+      "wine_primaryIngredient": ["Fish and Seafood", "Pasta and Rice", "Vegetarian", "Other"]
+    },
+    {
+      "wine_name": "Pícaro del Águila Clarete",
+      "wine_year":2020 ,
+      "wine_do": "D.O. Ribera del Duero",
+      "wine_brand": "Dominio del Águila",
+      "wine_description": "Rosé Wine. Albillo, Bobal, Bruñal, Garnacha blanca, Garnacha Tinta, Otras, Tempranillo",
+      "wine_image": "https://www.vinoseleccion.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/_/p_caro-del-_guila-clarete-rosado-sc_1_1_1_1.jpg",
+      "wine_price": "25,40",
+      "wine_url": "https://www.vinissimus.com/es/vino/picaro-del-aguila-clarete/",
+      "wine_primaryIngredient": ["Meat", "Vegetarian", "Other"]
+    },
+    {
+      "wine_name": "Viñas del Vero Pinot Noir",
+      "wine_year": 2021,
+      "wine_do": "D.O. Somontano",
+      "wine_brand": "Viñas del Vero",
+      "wine_description": "Rosé Wine. 100% Pinot Noir",
+      "wine_image": "https://www.vinoseleccion.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/v/i/vinas-del-vero-pinot-noir-rosado_4.jpg",
+      "wine_price": "7,60",
+      "wine_url": "https://www.vinissimus.com/es/vino/vinas-del-vero-pinot-noir-rosado/",
+      "wine_primaryIngredient": ["Fish and Seafood", "Vegetarian", "Pasta and Rice"]
+    },
+    {
+      "wine_name": "Marqués de Riscal Rosado",
+      "wine_year": 2021,
+      "wine_do": "D.O.Ca. Rioja",
+      "wine_brand": "Marqués de Riscal",
+      "wine_description": "Rosé Wine. 5% Garnacha Tinta, 5% Malvasía, 75% Tempranillo, 15% Viura",
+      "wine_image": "https://www.vinoseleccion.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/a/marques-de-riscal-rosado_2_1_1_2.jpg",
+      "wine_price": "7,10",
+      "wine_url": "https://www.vinissimus.com/es/vino/marques-de-riscal-rosado/",
+      "wine_primaryIngredient": ["Pasta and Rice", "Vegetarian", "Other"]
+    },
+    {
+      "wine_name": "Marimar Estate Rosaleda",
+      "wine_year": 2020,
+      "wine_do": "Sonoma Coast, California",
+      "wine_brand": "Marimar Estate Vineyards & Winery",
+      "wine_description": "Rosé Wine. 100% Pinot Noir",
+      "wine_image": "https://www.vinoseleccion.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/a/marimar-estate-rosaleda_2.jpg",
+      "wine_price": "20,32",
+      "wine_url": "https://www.vinissimus.com/es/vino/marimar-rosaleda-rose/",
+      "wine_primaryIngredient": ["Fish and Seafood", "Pasta and Rice"]
+    },
+    {
+      "wine_name": "Gramona Imperial",
+      "wine_year": 2016,
+      "wine_do": "Penedès",
+      "wine_brand": "Bodegas Gramona",
+      "wine_description": "Cava. 15% Chardonnay, 30% Macabeo, 5% Parellada, 50% Xarel·lo",
+      "wine_image": "https://www.vinoseleccion.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/g/r/gramona-sc_1.jpg",
+      "wine_price": "20,95",
+      "wine_url": "https://www.vinissimus.com/es/cava/gramona-imperial-gran-reserva/",
+      "wine_primaryIngredient": ["Desserts", "Fish and Seafood"]
+    },
+    {
+      "wine_name": "Gramona Vi De Glass Riesling",
+      "wine_year": 2020,
+      "wine_do": "Penedès",
+      "wine_brand": "Bodegas Gramona",
+      "wine_description": "Sweet white wine. 100% Riesling",
+      "wine_image": "https://www.vinoseleccion.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/g/r/gramona-vi-de-glass-riesling_2_1_1_1_1.png",
+      "wine_price": "16,50",
+      "wine_url": "https://www.vinissimus.com/es/vino/gramona-vi-de-glass-riesling-37-5cl/",
+      "wine_primaryIngredient": "Desserts"
+    },
+    {
+      "wine_name": "Parxet Gran Reserva M.C.",
+      "wine_year": 2015,
+      "wine_do": "D.O. Cava",
+      "wine_brand": "Parxet ",
+      "wine_description": "Cava Gran Reserva. Macabeo, Parellada, Xarel·lo",
+      "wine_image": "https://www.vinoseleccion.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/a/parxet-gran-reserva-mc-vintage.jpg",
+      "wine_price": "17,90",
+      "wine_url": "https://www.vinissimus.com/es/cava/parxet-maria-cabane-gran-reserva/",
+      "wine_primaryIngredient": ["Desserts", "Fish and Seafood"]
+    },
+    {
+      "wine_name": "Raventós i Blanc De Nit",
+      "wine_year": 2019,
+      "wine_do": "Penedès",
+      "wine_brand": "Raventós i Blanc ",
+      "wine_description": "Cava. 39% Macabeo, 6% Monastrell, 15% Parellada, 40% Xarel·lo",
+      "wine_image": "https://www.vinoseleccion.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/e/de-nit-2016-raventos_i_balnc_1_1_1_1.jpg",
+      "wine_price": "17,50",
+      "wine_url": "https://www.vinissimus.com/es/cava/raventos-i-blanc-de-nit/",
+      "wine_primaryIngredient": "Desserts"
+    },
+    {
+      "wine_name": "Champagne Drappier Charles de Gaulle",
+      "wine_year": 2016,
+      "wine_do": " A.O.C. Champagne",
+      "wine_brand": "Champagne Drappier",
+      "wine_description": "Champán. 20% Chardonnay, 80% Pinot Noir",
+      "wine_image": "https://www.vinoseleccion.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/r/drappier-charles-de-gaulle_3.jpg",
+      "wine_price": "43,90",
+      "wine_url": "https://www.vinissimus.com/es/champagne/drappier-charles-de-gaulle-brut/",
+      "wine_primaryIngredient": "Desserts"
+    }
+  ]
+}
